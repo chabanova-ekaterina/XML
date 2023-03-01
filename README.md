@@ -1,3 +1,5 @@
+<h1 align="center">This repository contains files with examples of writing in XML format</h1>
+
 ```
 <info>
   <name>Katy</name>
