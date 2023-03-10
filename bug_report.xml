@@ -1,3 +1,4 @@
+<BR>
 <ID>BR-6</ID>
 <Title> Slider in the banner under the graph when combined </Title>
 <Severity> Minor </Severity>
@@ -13,3 +14,4 @@
 <Actual Result> When combining sliders in one place, the last slider dominates. Unable to expand sliders when interacting with a previous slider </Actual Result>
 <attach> Link </attach>
 <Comments> no_comments </Comments>
+</BR>
