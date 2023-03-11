@@ -9,7 +9,7 @@
 
 ```
 <BR>
-        <ID>BR-6</ID>
+        <ID> BR-6 </ID>
         <Title> Slider in the banner under the graph when combined </Title>
         <Severity> Minor </Severity>
         <Priority> Low </Priority>
